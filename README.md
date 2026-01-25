@@ -1,4 +1,7 @@
-## Всем привет! 👋
+<div id="header" align="center">
+  <h1>## Всем привет! 👋 </h1>
+  <h3>future QA-engineer</h3>
+</div>
 
 <!--
 **YuriiKleymenov/YuriiKleymenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
