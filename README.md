@@ -3,6 +3,13 @@
   <h3>future QA-engineer</h3>
 </div>
 
+<div id="socials" align="center">
+  <a href="https:t.me/YuriiKleimenov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
+      badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 ## 🌱 I’m currently learning Java
 <!--
 **YuriiKleymenov/YuriiKleymenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
