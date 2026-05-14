@@ -3,14 +3,14 @@
   <h3>QA-engineer</h3>
 </div>
 
-<div id="socials" align="center">
-   <a href="https://t.me/YuriiKleimenov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 <p align="center">
-  <a href="vk.com"><img src="shields.io" alt="VK"></a>
+  <a href="t.me" target="_blank">
+    <img src="shields.io" alt="Telegram"/>
+  </a>
+  <a href="vk.com" target="_blank">
+    <img src="shields.io" alt="VK"/>
+  </a>
 </p>
-</div>
 
 ## 🌱 I’m currently learning Java and automation testing!
 <!--
