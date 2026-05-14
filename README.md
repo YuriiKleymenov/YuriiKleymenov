@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> Всем привет! 👋 </h1>
-  <h3>future QA-engineer</h3>
+  <h3>QA-engineer</h3>
 </div>
 
 <div id="socials" align="center">
@@ -9,7 +9,7 @@
   </a>
 </div>
 
-## 🌱 I’m currently learning Java
+## 🌱 I’m currently learning Java and automation testing!
 <!--
 **YuriiKleymenov/YuriiKleymenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
