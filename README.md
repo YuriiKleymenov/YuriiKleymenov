@@ -6,7 +6,7 @@
   <a href="t.me" target="_blank">
     <img src="shields.io" alt="Telegram"/>
   </a>
-  <a href="vk.com" target="_blank">
+  <a href="https://vk.com/y.v.kleymenov" target="_blank">
     <img src="shields.io" alt="VK"/>
   </a>
 </p>
