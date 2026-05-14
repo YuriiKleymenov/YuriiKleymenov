@@ -1,15 +1,12 @@
 <div id="header" align="center">
   <h1> Всем привет! 👋 </h1>
   <h3>QA-engineer</h3>
-
-<p align="center">
-  <a href="t.me" target="_blank">
-    <img src="shields.io" alt="Telegram"/>
+<div>
+ <a href="https://t.me/YuriiKleimenov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://vk.com/y.v.kleymenov" target="_blank">
-    <img src="shields.io" alt="VK"/>
-  </a>
-</p>
+  [![VK](https://shields.io)](https://vk.com/y.v.kleymenov)
+</div>
 
 ## 🌱 I’m currently learning Java and automation testing!
 <!--
