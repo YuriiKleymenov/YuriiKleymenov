@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 <p align="center">
-  <a href="ССЫЛКА_НА_ВАШ_ТЕЛЕГРАМ"><img src="shields.io" alt="Telegram"></a>
   <a href="vk.com"><img src="shields.io" alt="VK"></a>
 </p>
 </div>
