@@ -6,6 +6,7 @@
  <a href="https://t.me/YuriiKleimenov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <br>
   <a href="https://vk.com/y.v.kleymenov" target="_blank">
     <img src="https://img.shields.io/badge/VK-blue" alt="VK"/>
   </a>
