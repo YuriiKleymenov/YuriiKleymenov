@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/y.v.kleymenov" target="_blank">
-    <img src="shields.io" alt="VK"/>
+    <img src="https://img.shields.io/badge/VK-blue" alt="VK"/>
   </a>
 </div>
 
