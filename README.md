@@ -7,7 +7,10 @@
    <a href="https://t.me/YuriiKleimenov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
- [![VK](https://shields.io)](https://vk.com/y.v.kleymenov)
+<p align="center">
+  <a href="ССЫЛКА_НА_ВАШ_ТЕЛЕГРАМ"><img src="shields.io" alt="Telegram"></a>
+  <a href="vk.com"><img src="shields.io" alt="VK"></a>
+</p>
 </div>
 
 ## 🌱 I’m currently learning Java and automation testing!
