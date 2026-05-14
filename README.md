@@ -6,6 +6,9 @@
  <a href="https://t.me/YuriiKleimenov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="vk.com" target="_blank">
+    <img src="shields.io" alt="VK"/>
+  </a>
 </div>
 
 ## 🌱 I’m currently learning Java and automation testing!
