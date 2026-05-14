@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1> Всем привет! 👋 </h1>
   <h3>QA-engineer</h3>
-</div>
 
 <p align="center">
   <a href="t.me" target="_blank">
